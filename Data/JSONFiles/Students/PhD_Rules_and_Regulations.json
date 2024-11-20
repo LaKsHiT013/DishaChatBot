@@ -1,0 +1,286 @@
+{
+    "academic_rules_and_regulations": {
+      "academic_year": "2024-25 onwards",
+      "governing_programs": "All Ph.D. Programs",
+      "institute": {
+        "name": "Indian Institute of Information Technology Nagpur",
+        "abbreviation": "IIITN",
+        "location": "India 441108",
+        "established": "April 2024",
+        "importance": "Institution of national importance under the IIIT (PPP) Act, 2017",
+        "partners": [
+          "Ministry of Education (Government of India)",
+          "State Governments",
+          "Industry Partners (e.g., Tata Consultancy Services, Mumbai)"
+        ],
+        "vision": "To be a leader in IT-related science and engineering research and education."
+      },
+      "program": {
+        "objective": "Provide research training relevant to social and economic objectives, interdisciplinary research, and innovation.",
+        "disciplines": ["Computer Science and Engineering", "Electronics and Communication Engineering"],
+        "research_areas": {
+          "CSE": [
+            "Operating Systems",
+            "Databases",
+            "Networking",
+            "Compilers",
+            "Software Engineering",
+            "Image Processing",
+            "AI and ML",
+            "Natural Language Processing",
+            "Big Data"
+          ],
+          "ECE": [
+            "VLSI Design",
+            "Embedded Systems",
+            "Cognitive Radio",
+            "Opto-electronics",
+            "Mechatronics",
+            "Robotics"
+          ]
+        },
+        "admission_categories": {
+          "industry_candidates": {
+            "extern_candidate": {
+              "category": "EX-I",
+              "description": "Self-financed and employed by recognized organizations.",
+              "eligibility": "B.Tech/BE or M.Tech/MS/ME with 1 year experience.",
+              "requirements": ["No Objection Certificate (NOC) from employer"]
+            },
+            "intern_sponsored_candidate": {
+              "category": "IN-IS",
+              "description": "Sponsored by an employer for research at IIITN.",
+              "eligibility": "B.Tech/BE or M.Tech/MS/ME with 3 years experience.",
+              "requirements": ["Financial assistance certificate from sponsor"]
+            }
+          },
+          "academic_institution_candidates": {
+            "extern_self_financed": {
+              "category": "EX-A",
+              "description": "Self-financed and employed in academic institutions.",
+              "eligibility": "M.Tech/MS/ME qualification.",
+              "requirements": ["No Objection Certificate (NOC) from employer"]
+            },
+            "intern_sponsored": {
+              "category": "IN-AS",
+              "description": "Sponsored by academic institutions for research at IIITN.",
+              "eligibility": "M.Tech/MS/ME qualification.",
+              "requirements": ["Financial assistance certificate from sponsor"]
+            },
+            "extern_sponsored": {
+              "category": "EX-AS",
+              "description": "Sponsored by academic institutions for research at IIITN.",
+              "eligibility": "M.Tech/MS/ME qualification.",
+              "requirements": ["Financial assistance certificate from sponsor"]
+            }
+          },
+          "other_candidates": {
+            "intern_self_sponsored": {
+              "category": "IN-U",
+              "description": "Self-financed and unemployed candidates.",
+              "eligibility": "M.Tech/MS/ME qualification."
+            },
+            "intern_externally_funded": {
+              "category": "IN-ES",
+              "description": "Candidates with external funding or project staff.",
+              "eligibility": "M.Tech/MS/ME qualification.",
+              "stipend": "From respective research grants or fellowships."
+            },
+            "intern_self_sponsored_project_staff": {
+              "category": "IN-PS",
+              "description": "Self-sponsored project staff (SRF/JRF).",
+              "eligibility": "M.Tech/MS/ME qualification.",
+              "stipend": "Under respective research grants."
+            }
+          }
+        },
+        "minimum_duration": {
+          "master_degree_candidates": "3 academic years",
+          "bachelor_degree_candidates": "4 academic years"
+        },
+        "eligibility_requirements": [
+          "First class or 60% marks (55% for SC/ST/PwD).",
+          "Minimum CPI/CGPA: 6.75 (6 for SC/ST/PwD) on a 10-point scale.",
+          "Relevant work experience (if applicable).",
+          "Valid GATE score (desirable)."
+        ],
+        "selection_process": {
+          "stage_1": {
+            "description": "Written test",
+            "qualifying_score": "Minimum 40%, normalized based on the highest score."
+          },
+          "stage_2": {
+            "description": "Personal interview",
+            "criteria": "Qualifying candidates from the written test."
+          },
+          "stage_3": {
+            "description": "Combined score",
+            "calculation": "Score from written test and interview."
+          }
+        }
+      },
+      "contact": {
+        "website": "www.iiitn.ac.in",
+        "email": ["director@iiitn.ac.in", "registrar@iiitn.ac.in"]
+      }
+    },
+    "VALIDITY_OF_REGISTRATION": {
+      "M.Tech": 6,
+      "B.Tech": 7,
+      "Re-registration": "Required if period exceeds 6/7 years",
+      "Deadline": "Apply before completion of 6/7 years",
+      "Failure": "Requires fresh registration"
+    },
+    "LEAVE_REGULATIONS": {
+      "FullTime_Sponsored": {
+        "AnnualLeave": 30,
+        "MedicalGrounds": "Included in 30 days",
+        "ExtendedLeave": {
+          "Conditions": [
+            "Without Assistantship/Scholarship",
+            "Maximum 30 days once during entire program"
+          ]
+        },
+        "MaternityLeave": {
+          "FemaleScholars": 180,
+          "Extension": "Equal to maternity leave availed"
+        },
+        "ApprovalProcess": [
+          "Supervisor",
+          "PhD Coordinator",
+          "HoD",
+          "Dean"
+        ]
+      }
+    },
+    "ABSENCE_DURING_SEMESTER": {
+      "Notification": "Inform Supervisor/Coordinator/HoD/Dean immediately",
+      "AbsenceDueToIllness": {
+        "Maximum": "2 weeks",
+        "Documentation": "Medical certificate required",
+        "Makeup": "Assignments/quizzes/tests allowed"
+      },
+      "Withdrawal": {
+        "Eligibility": "Absence >20 working days",
+        "Deadline": "1 week before end term exam",
+        "PartialWithdrawal": "Not allowed"
+      },
+      "ContinuousAbsence": {
+        "Threshold": "4 weeks",
+        "Action": "Name removed from rolls"
+      }
+    },
+    "SEMINARS": {
+      "SixMonthly": {
+        "Frequency": "Every 6 months",
+        "Prerequisites": "Semester fee paid",
+        "RPCReview": "Mandatory",
+        "Consequences": {
+          "UnsatisfactoryRemarks": "Registration cancellation possible"
+        }
+      },
+      "PreSubmission": {
+        "Eligibility": "1 month before minimum duration completion",
+        "Timeline": "Notice 1 week in advance",
+        "Submission": {
+          "Synopsis": "1 week prior",
+          "Presentation": "Aligned with thesis"
+        }
+      }
+    },
+    "THESIS_REQUIREMENTS": {
+      "MinimumPublication": {
+        "Journals": {
+          "SCIE": 1,
+          "SCI_SCIE_Scopus": 1
+        }
+      },
+      "Timeline": {
+        "PreSubmissionSeminar": "Within 6 months of delivery",
+        "SubmissionCopies": {
+          "Hard": 3,
+          "Soft": "PDF format"
+        }
+      },
+      "Evaluation": {
+        "Fee": 35000,
+        "Examiners": 2,
+        "Outcome": {
+          "Favorable": "Eligible for defense",
+          "MajorRevisions": {
+            "Resubmission": "Allowed once within 1 year"
+          },
+          "MinorRevisions": "Corrections before defense",
+          "Rejection": {
+            "TwoExaminers": {
+              "Resubmission": "Allowed after 1-3 years",
+              "FurtherRejection": "Disqualification"
+            }
+          }
+        },
+        "Defense": {
+          "BoardComposition": [
+            "Thesis Examiner",
+            "Chairman BoS",
+            "Supervisors",
+            "Director’s Nominee",
+            "RPC Members"
+          ]
+        }
+      },
+      "FinalSubmission": {
+        "HardCopies": 2,
+        "SoftCopy": "Upload to Shodhganga"
+      }
+    },
+    "SUPERVISION": {
+      "MaxCandidates": {
+        "Standalone": 1,
+        "JointSupervision": 0.5,
+        "Total": "8-10"
+      },
+      "AdditionalSupervisor": "Allowed if principal supervisor leaves",
+      "ChangeOfSupervisor": {
+        "Conditions": "Approval required from Director"
+      }
+    },
+    "SEMESTER_BREAK": {
+      "Conditions": {
+        "Reason": "Genuine",
+        "Approval": "Director"
+      },
+      "Consequences": {
+        "NoFees": true,
+        "NoSeminar": true
+      },
+      "Limit": 1
+    },
+    "REGISTRATION_CANCELLATION": {
+      "Request": {
+        "Candidates": true,
+        "SupervisorWithRPC": true,
+        "Approval": "Director"
+      }
+    },
+    "RESIDENCE_REQUIREMENTS": {
+      "HostelRules": {
+        "General": {
+          "Mandatory": true,
+          "Exceptions": {
+            "Approval": "Director/Dean"
+          },
+          "Restrictions": [
+            "No family members",
+            "No opposite sex in blocks",
+            "No liquor/drugs/intoxicants"
+          ]
+        },
+        "MarriedAccommodation": "Based on availability",
+        "Mess": {
+          "Participation": "Mandatory",
+          "Exceptions": "Medical grounds"
+        }
+      }
+    }
+  }
+  

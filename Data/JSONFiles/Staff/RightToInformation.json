@@ -1,0 +1,100 @@
+{
+    "rti": {
+      "overview": {
+        "title": "Right To Information",
+        "description": "Right to Information (RTI) is an Act of the Indian Parliament enforced from the year 2005, to provide for a practical regime for citizens to secure access to information under the control of public authorities. This aims to promote transparency and accountability in the working of every public authority. IIIT Nagpur, being an Autonomous Government Body, is covered under this act.",
+        "documents": {
+          "RTI_Act_2005_English": "URL_to_RTI_Act_2005_English",
+          "RTI_Act_2005_Hindi": "URL_to_RTI_Act_2005_Hindi",
+          "RTI_Act_2005_Marathi": "URL_to_RTI_Act_2005_Marathi",
+          "Guide_to_RTI_Act_2005_English": "URL_to_Guide_to_RTI_Act_2005_English"
+        }
+      },
+      "purpose": {
+        "description": "To provide for setting out the practical regime of 'right to information' for citizens to secure access to information under the control of public authorities, in order to promote transparency and accountability in the working of every public authority."
+      },
+      "definition": {
+        "description": "\"Right To Information\" means the right to information accessible under this Act which is held by or under the control of any public authority and includes the right to:",
+        "rights": [
+          "Inspection of work, documents, records;",
+          "Taking notes, extracts or certified copies of documents or records;",
+          "Taking certified samples of material;",
+          "Obtaining information in the form of diskettes, floppies, tapes, video cassettes or in any other electronic mode or through printouts where such information is stored in a computer or in any other device."
+        ]
+      },
+      "details": {
+        "organization_and_function": {
+          "sections": [
+            {
+              "title": "Particulars of its organization, functions and duties",
+              "reference": "Section 4(1)(b)(i)"
+            },
+            {
+              "title": "Power and duties of its officers and employees",
+              "reference": "Section 4(1)(b)(ii)"
+            },
+            {
+              "title": "Procedure followed in the decision-making process",
+              "reference": "Section 4(1)(b)(iii)"
+            },
+            {
+              "title": "Norms for discharge of functions",
+              "reference": "Section 4(1)(b)(iv)"
+            },
+            {
+              "title": "Rules, regulations, instructions manual and records for discharging functions",
+              "reference": "Section 4(1)(b)(v)"
+            },
+            {
+              "title": "Categories of documents held by the authority under its control",
+              "reference": "Section 4(1)(b)(vi)"
+            },
+            {
+              "title": "Boards, Councils, Committees and other Bodies constituted as part of the Public Authority",
+              "reference": "Section 4(1)(b)(viii)"
+            },
+            {
+              "title": "Directory of officers and employees",
+              "reference": "Section 4(1)(b)(ix)"
+            },
+            {
+              "title": "Monthly Remuneration received by officers & employees including the system of compensation",
+              "reference": "Section 4(1)(b)(x)"
+            },
+            {
+              "title": "Name, designation and other particulars of public information officers",
+              "reference": "Section 4(1)(b)(xvi)"
+            },
+            {
+              "title": "No. Of employees against whom disciplinary action has been proposed/taken",
+              "reference": "Section 4(2)"
+            },
+            {
+              "title": "Programmes to advance understanding of RTI",
+              "reference": "Section 26"
+            },
+            {
+              "title": "Transfer policy and transfer orders",
+              "reference": "F No. 1/6/2011- IR dt. 15.4.2013"
+            }
+          ]
+        }
+      },
+      "contacts": {
+        "central_public_information_officer": {
+          "name": "Ms. Shilpa Pawankar",
+          "position": "Assistant Registrar (Accounts)",
+          "organization": "Indian Institute of Information Technology, Nagpur",
+          "phone": "8080339345",
+          "email": "aracct@iiitn.ac.in"
+        },
+        "first_appellate_authority": {
+          "name": "Shri Kailas N. Dakhale",
+          "position": "Registrar",
+          "organization": "Indian Institute of Information Technology, Nagpur",
+          "phone": "8087983449",
+          "email": "registrar@iiitn.ac.in"
+        }
+      }
+    }
+  }  

@@ -1,0 +1,515 @@
+{
+    "SummerWinterInternshipProgram": {
+        "Objective": {
+            "Description": "This program is designed to give an educational and professional research experience to budding Engineers. To provide an opportunity to B. Tech / B.E. / MSc. (Computer Science/Electronics & Communication/Information Technology/Mathematics/Statistics) / MCA students from the Institutions or Universities across the Nation to facilitate their exposure to the research environment at IIIT Nagpur."
+        },
+        "DetailsOfTheProgram": {
+            "Description": "The internship program is intended to provide knowledge and deep learning in their area of interest under the supervision of expert faculty.",
+            "Requirements": [
+                "Candidates need to decide the duration of the internship.",
+                "Each candidate must submit an original bonafide certificate from their currently affiliated organization, duly authorized by HoD/Principal/Supervisor on letterhead.",
+                "Selected candidates must abide by the rules and regulations of IIIT-N.",
+                "Project report submission is mandatory for the award of the completion certificate.",
+                "Candidates need to produce substantial or measurable output from the internship in the form of research publication in SCI/SCOPUS journal, software products, apps, or patents.",
+                "Candidates need to demonstrate technical skills and professional ethics.",
+                "All copyrights will be associated or reserved with IIIT Nagpur."
+            ]
+        },
+        "ModesOfInternship": {
+            "InCampusInternshipProgram": {
+                "Description": "Students need to be physically present on the institute premises and undergo the given assignment and project under the supervision of experts. Required training and guidance on the selected project will be provided, along with access to necessary computational and library resources."
+            },
+            "OnlineInternshipProgram": {
+                "Description": "Students need not be physically present on the institute premises and can undergo the given assignment and project under the supervision of experts through online mode. Required training and guidance on the selected project will be provided."
+            }
+        },
+        "ApplicationProcess": {
+            "ForComputerScienceAndEngineering": {
+                "Process": "Students should directly apply to the faculty member via email by sending a latest resume or CV (indicating grades and technical skills), mentioning the subject in the mail as 'Request for Six/Two months internship at IIIT Nagpur.'",
+                "FacultyMembers": [
+                    {
+                        "Name": "Dr. Jitendra V. Tembhurne",
+                        "Email": "jtembhurne@iiitn.ac.in",
+                        "Expertise": [
+                            "Parallel Computing",
+                            "Machine/Deep Learning",
+                            "Data Mining",
+                            "Image Processing",
+                            "Cryptography & Security"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Pooja Jain",
+                        "Email": "poojajain@iiitn.ac.in",
+                        "Expertise": [
+                            "Machine Learning",
+                            "Natural Language Processing"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Nishat Ansari",
+                        "Email": "nishat.ansari@iiitn.ac.in",
+                        "Expertise": [
+                            "Wireless Sensor Networks",
+                            "Artificial Intelligence"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Mayuri Digalwar",
+                        "Email": "mayuri@iiitn.ac.in",
+                        "Expertise": [
+                            "Real Time Systems",
+                            "Multiprocessor/Multi-core Computer Architecture"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Milind Penurkar",
+                        "Email": "milindpenurkar@iiitn.ac.in",
+                        "Expertise": [
+                            "Delay Tolerant Networks",
+                            "Mobile Social Networks",
+                            "IoT"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Tausif Diwan (HoD)",
+                        "Email": "tdiwan@iiitn.ac.in",
+                        "Expertise": [
+                            "Parallel Computing",
+                            "Deep Learning"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Richa Makhijani",
+                        "Email": "richa.makhijani@iiitn.ac.in",
+                        "Expertise": [
+                            "Bioinformatics",
+                            "Data Analysis"
+                        ]
+                    }
+                ],
+                "FollowUp": "After getting consent from the faculty, students are required to forward the internship joining application form along with the registration form (in the prescribed format) and the details of the fee payment to the admin office at email id: receipts@iiitn.ac.in.",
+                "FeePayment": "The registration fee should be deposited only after selection confirmation from the supervisor."
+            },
+            "ForElectronicsAndCommunicationEngineering": {
+                "Process": "Students should directly apply to the faculty member via email by sending a latest resume or CV (indicating grades and technical skills), mentioning the subject in the mail as 'Request for Six/Two months internship at IIIT Nagpur.'",
+                "FacultyMembers": [
+                    {
+                        "Name": "Dr. Tapan Kumar Jain",
+                        "Email": "tapan.jain@iiitn.ac.in",
+                        "Expertise": [
+                            "Wireless Sensor Networks",
+                            "Image Processing"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Chandrashekhar Sakode",
+                        "Email": "chandrashekhar.sakode@iiitn.ac.in",
+                        "Expertise": [
+                            "Linear, Nonlinear & Optimal Control",
+                            "Optimization",
+                            "Biomedical System"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Prasad Joshi",
+                        "Email": "pjoshi@iiitn.ac.in",
+                        "Expertise": [
+                            "Solid Mechanics",
+                            "Vibration of Plates",
+                            "Dynamics of Nano Plates",
+                            "Analytical Modeling of Beams",
+                            "Plates and Shells for Vibration Analysis"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Rashmi Pandhare",
+                        "Email": "rpandhare@iiitn.ac.in",
+                        "Expertise": [
+                            "Microwave",
+                            "Antennas"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Mayur Parate (HoD)",
+                        "Email": "mparate@iiitn.ac.in",
+                        "Expertise": [
+                            "Arbitrary Object Tracking in Videos",
+                            "Development of Appearance Model of an Object for Computer Vision"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Paritosh Peshwe",
+                        "Email": "paritoshpeshwe@iiitn.ac.in",
+                        "Expertise": [
+                            "Antenna Design",
+                            "Wireless Communication"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Parul Sahare",
+                        "Email": "parulsahare@iiitn.ac.in",
+                        "Expertise": [
+                            "Signal Processing",
+                            "Image Processing",
+                            "Pattern Recognition",
+                            "Document Image Analysis",
+                            "Machine Learning"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Nikhil Agrawal",
+                        "Email": "nagrawal@iiitn.ac.in",
+                        "Expertise": [
+                            "Digital Filter Design and Signal Processing",
+                            "Evolutionary Techniques and Optimization",
+                            "Embedded System"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Harsh Goud",
+                        "Email": "hgoud@iiitn.ac.in",
+                        "Expertise": [
+                            "Process Control System, PID Controller",
+                            "Model Reference Adaptive Controller",
+                            "Artificial Intelligence"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Sushmita Dandeliya",
+                        "Email": "sdandeliya@iiitn.ac.in",
+                        "Expertise": [
+                            "VLSI",
+                            "Nanoelectronics",
+                            "Energy Storage Applications",
+                            "Gas",
+                            "Molecule Sensor Modelling using DFT"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Girish Chandra Ghivela",
+                        "Email": "gghivela@iiitn.ac.in",
+                        "Expertise": [
+                            "Semiconductor Devices for IoT Applications",
+                            "Electronics Materials",
+                            "Microwave Devices for 5G/6G Communications",
+                            "Wide Bandgap Semiconductors",
+                            "Including Organic Materials",
+                            "Related Heterostructures and Devices",
+                            "Nanoelectronics"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Shankar Bhattacharjee",
+                        "Email": "sbhattacharjee@iiitn.ac.in",
+                        "Expertise": [
+                            "Miniaturized Antenna Designs for Biomedical Applications",
+                            "Wireless Power Transfer System Design"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Rajnish Kumar Singh",
+                        "Email": "rsingh@iiitn.ac.in",
+                        "Expertise": [
+                            "High-Power and Low-Power Microwave Devices",
+                            "Metamaterials"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Khuraijam Nelson Singh",
+                        "Email": "knelson@iiitn.ac.in",
+                        "Expertise": [
+                            "Semiconductor Device Modeling and Simulation",
+                            "Advanced MOS Devices",
+                            "Nano Biosensors"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Mayank Thacker",
+                        "Email": "mthacker@iiitn.ac.in",
+                        "Expertise": [
+                            "VLSI Fabrication",
+                            "MEMS and Microstructures",
+                            "Analog/RF Circuit Design",
+                            "Embedded and IoT Design"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Nikhil Dhengre",
+                        "Email": "ndhengre@iiitn.ac.in",
+                        "Expertise": [
+                            "Image Processing",
+                            "Machine Learning",
+                            "Deep Learning"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Sagar Motdhare",
+                        "Email": "smotdhare@iiitn.ac.in",
+                        "Expertise": [
+                            "Biomedical Signal Processing"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Tushar S. Muratkar",
+                        "Email": "tmuratkar@iiitn.ac.in",
+                        "Expertise": [
+                            "Wireless Communication",
+                            "Machine Learning",
+                            "Deep Learning",
+                            "IoT"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Chandrashekhar Kamargaonkar",
+                        "Email": "ckamargaonkar@iiitn.ac.in",
+                        "Expertise": [
+                            "Image Processing",
+                            "Embedded System"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Rashmi Ranjan Kumar",
+                        "Email": "rkumar@iiitn.ac.in",
+                        "Expertise": [
+                            "Optoelectronics Device Fabrication",
+                            "Thin Films Deposition and Characterization",
+                            "Sensors",
+                            "Optoelectronics"
+                        ]
+                    }
+                ],
+                "FollowUp": "After getting consent from the faculty, students are required to forward the internship joining application form along with the registration form (in the prescribed format) and the details of the fee payment to the admin office at email id: receipts@iiitn.ac.in.",
+                "FeePayment": "The registration fee should be deposited only after selection confirmation from the supervisor."
+            },
+            "HumanitiesPhysicsMathematicsDepartment": {
+                "Process": "Students should directly apply to the faculty member via email by sending a latest resume or CV (indicating grades and technical skills), mentioning the subject in the mail as 'Request for Internship at IIIT Nagpur.'",
+                "Humanities": [
+                    {
+                        "Name": "Dr. Kirti Sanjay Dorshetwar",
+                        "Email": "kdorshetwar@iiitn.ac.in",
+                        "Expertise": [
+                            "Indian Literature",
+                            "Professional Communication",
+                            "Composition Theory",
+                            "Studies in Media and Popular Culture",
+                            "Interdisciplinary Methodologies",
+                            "Feminist Pedagogy",
+                            "Twentieth-century Literature",
+                            "Interdisciplinary Approaches to Literary Studies",
+                            "Literature, Science and Technology"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Madhuri Tayade",
+                        "Email": "mtayade@iiitn.ac.in",
+                        "Expertise": [
+                            "English Literature",
+                            "American Literature",
+                            "Communication Skills",
+                            "Functional Grammar",
+                            "Technical Communication"
+                        ]
+                    },
+                    {
+                        "Name": "Mr. Vikrant Dhenge",
+                        "Email": "vdhenge@iiitn.ac.in",
+                        "Expertise": [
+                            "Urban Studies",
+                            "Urban Design",
+                            "Urban Sociology"
+                        ]
+                    }
+                ],
+                "Physics": [
+                    {
+                        "Name": "Dr. Prasad V. Joshi",
+                        "Email": "pjoshi@iiitn.ac.in",
+                        "Expertise": [
+                            "Computer Graphics",
+                            "Solid Mechanics",
+                            "Robotics"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Shaileshkumar Janbandhu",
+                        "Email": "sjanbandhu@iiitn.ac.in",
+                        "Expertise": [
+                            "Semiconductor Quantum Dots",
+                            "Glasses",
+                            "Water Purification"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Aatish S Daryapurkar",
+                        "Email": "asdaryapurkar@iiitn.ac.in",
+                        "Expertise": [
+                            "Applied Physics",
+                            "Materials Science",
+                            "Nanoscience and Nanotechnology"
+                        ]
+                    }
+                ],
+                "Mathematics": [
+                    {
+                        "Name": "Dr. Charu Goel",
+                        "Email": "charugoel@iiitn.ac.in",
+                        "Expertise": [
+                            "Real Algebraic Geometry",
+                            "Quadratic Forms",
+                            "Polynomial Optimization"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Kamaljeet",
+                        "Email": "Kamaljeet@iiitn.ac.in",
+                        "Expertise": [
+                            "Existence, Uniqueness, and Controllability of Mild Solutions of Abstract Differential Equations"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Naresh Kumar Nedunuri",
+                        "Email": "nnedunuri@iiitn.ac.in",
+                        "Expertise": [
+                            "Fluid Mechanics",
+                            "Neural Networks",
+                            "Machine Learning"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Nishant Namdev",
+                        "Email": "nnamdev@iiitn.ac.in",
+                        "Expertise": [
+                            "Mathematical Biosciences with Data Science"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Preeti",
+                        "Email": "preeti@iiitn.ac.in",
+                        "Expertise": [
+                            "Mathematical Modelling",
+                            "Computational Fluid Dynamics",
+                            "Hybrid Nanofluids & Heat Transfer",
+                            "Data Analysis"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Pradeep Shende",
+                        "Email": "nnamdev@iiitn.ac.in",
+                        "Expertise": [
+                            "Uncertainty Theory",
+                            "Rough Set"
+                        ]
+                    }
+                ],
+                "FollowUp": "After getting consent from the faculty, students are required to forward the internship joining application form along with the registration form (in the prescribed format) and the details of the fee payment to the admin office at email id: receipts@iiitn.ac.in.",
+                "FeePayment": "The registration fee should be deposited only after the selection confirmation from the supervisor."
+            },
+            "BasicScienceDepartment": {
+                "Process": "Students should directly apply to the faculty member only on their email id by sending a latest resume or CV (indicating the grades and technical skills), mentioning the subject in the mail as 'Request for Six/Two months internship at IIIT Nagpur.'",
+                "FacultyMembers": [
+                    {
+                        "Name": "Dr. Aatish Daryapurkar",
+                        "Email": "asdaryapurkar@iiitn.ac.in",
+                        "Expertise": [
+                            "Investigation of ceramic nanofiber synthesized using electrospinning technique",
+                            "Investigation of multifunctional oxide thin films including multiferroic, dielectric, ferroelectric and piezoelectric thin films grown using various PVD and CVD techniques for various nanoelectronic applications",
+                            "Explore the perovskite materials for Resistive Switching Devices",
+                            "Piezoelectric and magnetoelectric energy harvesting possibly for battery materials"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Charu Goel",
+                        "Email": "charugoel@iiitn.ac.in",
+                        "Expertise": [
+                            "Real Algebraic Geometry (in particular Positive Polynomials and Sum of Squares, Invariant Theory)",
+                            "Quadratic Forms",
+                            "Polynomial Optimization"
+                        ]
+                    },
+                    {
+                        "Name": "Dr. Kirti Dorshetwar (HoD)",
+                        "Email": "kdorshetwar@iiitn.ac.in",
+                        "Expertise": [
+                            "English Literature",
+                            "Modern Literature",
+                            "Communication Skills and Personality Development",
+                            "History",
+                            "English for Competitive Exams",
+                            "Study of Modern Literature",
+                            "Contemporary Literature",
+                            "Socio-cultural Aspect of Literature",
+                            "Historical Development in the Context of Technology",
+                            "COVID-19"
+                        ]
+                    }
+                ],
+                "FollowUp": "After getting consent from the faculty, students are required to forward the internship joining application form along with the registration form (in the prescribed format) and the details of the fee payment to the admin office at email id: receipts@iiitn.ac.in.",
+                "FeePayment": "The registration fee should be deposited only after the selection confirmation from the supervisor."
+            }
+        },
+        "SelectionProcess": {
+            "Process": "The respective faculty may take the telephonic or web-based interview for the selection of students. The selection of students is the sole responsibility of faculty members offering internships after testing and verifying the grades and technical skills. Applying to the internship does not guarantee the selection of students."
+        },
+        "EligibilityForInternship": {
+            "Criteria": "Any students who is pursuing B.Tech/BE/M.Tech/M.Sc. in Computer Science/Electronics & Communication Engineering/Information Technology.",
+            "UndergraduateRequirement": "For undergraduate students, he/she must have cleared the first 2 semesters of BE/B.Tech."
+        },
+        "DurationOfInternship": {
+            "StandardDuration": "The duration of the internship will be either 2 months or 6 months.",
+            "ExtensionPolicy": "If required, the duration of a 2-month internship can be extended to six months with the recommendation of the supervisor and the approval of the competent authority. Students need to pay the difference amount for further extension."
+        },
+        "RegistrationFees": {
+            "Details": [
+                {
+                    "CandidateType": "External Student",
+                    "Duration": "6 months",
+                    "RegistrationFee": 10000.00,
+                    "GST": 1800.00,
+                    "TotalPayable": 11800.00
+                },
+                {
+                    "CandidateType": "Internal Student",
+                    "Duration": "6 months",
+                    "RegistrationFee": 0.00,
+                    "GST": 0.00,
+                    "TotalPayable": 0.00
+                },
+                {
+                    "CandidateType": "External Student",
+                    "Duration": "2 months",
+                    "RegistrationFee": 3000.00,
+                    "GST": 540.00,
+                    "TotalPayable": 3540.00
+                },
+                {
+                    "CandidateType": "Internal Student",
+                    "Duration": "2 months",
+                    "RegistrationFee": 0.00,
+                    "GST": 0.00,
+                    "TotalPayable": 0.00
+                }
+            ]
+        },
+        "BankDetails": {
+            "PaymentMethod": "Fees need to be paid by NEFT/RTGS/IMPS in the following bank account.",
+            "AccountInfo": {
+                "AccountNumber": "37236982961",
+                "AccountName": "IIITN GENERAL",
+                "AccountType": "CURRENT",
+                "BankName": "State Bank of India",
+                "BankAddress": "VRCE Branch, South Ambazari Road, VNIT, Dist. Nagpur, Maharashtra - 440011",
+                "BankCode": "06702",
+                "IFSCCode": "SBIN0006702",
+                "MICRCode": "440002005"
+            }
+        },
+        "FormatForInternshipRegistrationFormAndReport": {
+            "Links": {
+                "RegistrationForm": "Registration Form Download",
+                "InternshipApplication": "Application for joining internship Download",
+                "InternshipReportGuidelines": "Internship Report Submission Guideline Download"
+            }
+        }
+    }
+}

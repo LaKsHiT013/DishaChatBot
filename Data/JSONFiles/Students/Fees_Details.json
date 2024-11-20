@@ -1,0 +1,171 @@
+{
+    "academic_fees_structure_2024_2025": {
+      "annual_fees": {
+        "tuition_fees": {
+          "1st_year": 198000,
+          "2nd_year": 198000,
+          "3rd_year": 198000,
+          "4th_year": 180000
+        },
+        "other_fees": {
+          "development_fees": {
+            "1st_year": 13500,
+            "2nd_year": 13500,
+            "3rd_year": 13500,
+            "4th_year": 12000
+          },
+          "end_semester_examination_fees": {
+            "1st_year": 2000,
+            "2nd_year": 2000,
+            "3rd_year": 2000,
+            "4th_year": 2000
+          },
+          "registration_fees": {
+            "1st_year": 1500,
+            "2nd_year": 1500,
+            "3rd_year": 1500,
+            "4th_year": 1500
+          },
+          "library_fees": {
+            "1st_year": 3000,
+            "2nd_year": 3000,
+            "3rd_year": 3000,
+            "4th_year": 3000
+          },
+          "gym_cultural_activities_magazine_fees": {
+            "1st_year": 2500,
+            "2nd_year": 2500,
+            "3rd_year": 2500,
+            "4th_year": 2200
+          },
+          "sports_fees": {
+            "1st_year": 2800,
+            "2nd_year": 2800,
+            "3rd_year": 2800,
+            "4th_year": 2000
+          },
+          "internet_computer_maintenance_fees": {
+            "1st_year": 3300,
+            "2nd_year": 3300,
+            "3rd_year": 3300,
+            "4th_year": 3000
+          },
+          "training_placement_fees": {
+            "1st_year": 900,
+            "2nd_year": 900,
+            "3rd_year": 900,
+            "4th_year": 800
+          },
+          "industry_institute_interaction_fees": {
+            "1st_year": 800,
+            "2nd_year": 800,
+            "3rd_year": 800,
+            "4th_year": 1500
+          },
+          "group_insurance_premium": {
+            "1st_year": 700,
+            "2nd_year": 700,
+            "3rd_year": 700,
+            "4th_year": 700
+          },
+          "convocation_fees": {
+            "1st_year": 0,
+            "2nd_year": 0,
+            "3rd_year": 0,
+            "4th_year": 1000
+          },
+          "sub_total_other_fees": {
+            "1st_year": 31000,
+            "2nd_year": 31000,
+            "3rd_year": 31000,
+            "4th_year": 29700
+          }
+        },
+        "sub_total_annual_fees": {
+          "1st_year": 229000,
+          "2nd_year": 229000,
+          "3rd_year": 229000,
+          "4th_year": 209700
+        }
+      },
+      "one_time_fees": {
+        "library_deposit_refundable": {
+          "1st_year": 5000,
+          "2nd_year": 0,
+          "3rd_year": 0,
+          "4th_year": 0
+        },
+        "caution_deposit_refundable": {
+          "1st_year": 5000,
+          "2nd_year": 0,
+          "3rd_year": 0,
+          "4th_year": 0
+        },
+        "identity_card_fee": {
+          "1st_year": 200,
+          "2nd_year": 0,
+          "3rd_year": 0,
+          "4th_year": 0
+        },
+        "medical_exam_fee": {
+          "1st_year": 300,
+          "2nd_year": 0,
+          "3rd_year": 0,
+          "4th_year": 0
+        },
+        "welfare_fund": {
+          "1st_year": 2500,
+          "2nd_year": 0,
+          "3rd_year": 0,
+          "4th_year": 0
+        },
+        "medical_aid_fund": {
+          "1st_year": 5000,
+          "2nd_year": 0,
+          "3rd_year": 0,
+          "4th_year": 0
+        },
+        "sub_total_one_time_fees": {
+          "1st_year": 18000,
+          "2nd_year": 0,
+          "3rd_year": 0,
+          "4th_year": 0
+        }
+      },
+      "total_fees": {
+        "1st_year": 247000,
+        "2nd_year": 229000,
+        "3rd_year": 229000,
+        "4th_year": 209700
+      },
+      "semester_fees": {
+        "odd_semester": {
+          "1st_year": 123850,
+          "2nd_year": 114850,
+          "3rd_year": 114850,
+          "4th_year": 104850
+        },
+        "even_semester": {
+          "1st_year": 123150,
+          "2nd_year": 114150,
+          "3rd_year": 114150,
+          "4th_year": 104850
+        }
+      }
+    },
+    "payment_details": {
+      "academic_online_fee_payment": {
+        "name_of_account": "Indian Institute of Information Technology, Nagpur General",
+        "account_no": "41759739179",
+        "ifsc_code": "SBIN0006702",
+        "branch_name": "VRCE BRANCH"
+      },
+      "hostel_online_fee_payment": {
+        "name_of_account": "Indian Institute of Information Technology, Nagpur Hostel",
+        "account_no": "41759639981",
+        "ifsc_code": "SBIN0006702",
+        "branch_name": "VRCE BRANCH"
+      }
+    }
+  }
+  

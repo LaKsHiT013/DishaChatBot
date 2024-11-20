@@ -1,0 +1,71 @@
+{
+    "AdmissionCancellationAndRefundPolicy": {
+      "Preamble": {
+        "Description": "The admissions to the Institutes are done through JoSAA/CSAB by conducting various rounds under the Centralized Admissions Process. In case of fresh admissions, the Institute generally receives part of its approved fees from JoSAA/CSAB and part fees from the student when he/she reports for registration. The policy elaborates the details of consideration and settlement of admission cancellation and refund requests."
+      },
+      "AdmissionCancellation": {
+        "1": "Students admitted may apply for cancellation at any time during the academic year.",
+        "2": "Requests shall be considered only after receipt of written communication.",
+        "3": "The receipt date of the request will determine the refund amount.",
+        "4": "The Institute reserves the right to initiate cancellation against any student.",
+        "5": "The Institute shall process the cancellation request after completing its process.",
+        "6": "Only the approved fees structure will be considered during processing.",
+        "7": "The Director or an authorized officer will approve cancellation requests."
+      },
+      "RefundOfAcademicFeesForFirstYear": {
+        "1": "If a student fails to report according to JoSAA/CSAB schedule, the fees will be forfeited.",
+        "2": "If a student reports but fails to register, the fees will be forfeited.",
+        "3": {
+          "Condition": "If cancellation request is within 30 days after the centralized admission process",
+          "Result": "Tuition fees forfeited, full other fees refunded after deducting Rs. 5,000 for processing charges."
+        },
+        "4": {
+          "Condition": "If cancellation request is after 30 days",
+          "Result": "All fees forfeited except caution money."
+        }
+      },
+      "RefundOfAcademicFeesForSecondThirdFourthYear": {
+        "1": {
+          "Condition": "If cancellation request is within 15 days of class commencement",
+          "Result": "25% of tuition fees forfeited, 75% refunded, 100% of other fees forfeited."
+        },
+        "2": {
+          "Condition": "If cancellation request is after 15 days",
+          "Result": "100% of tuition and other fees forfeited, caution money refundable."
+        }
+      },
+      "RefundOfHostelFees": {
+        "1": {
+          "Condition": "Request before centralized admission process and room not occupied",
+          "Result": "Full hostel fees refunded after deducting Rs. 5,000 for processing charges."
+        },
+        "2": {
+          "Condition": "Request within 30 days after centralized admission process but room occupied",
+          "Result": {
+            "RoomRent": "100% Deduction",
+            "CautionMoney": "100% Refund",
+            "AdvanceElectricityCharges": "Rs. 1,200 per month or actual, balance refunded.",
+            "AdvanceWaterCharges": "Rs. 200 per month or actual, balance refunded.",
+            "Recreation": "100% Deduction",
+            "DepreciationFund": "100% Deduction",
+            "WelfareFee": "100% Deduction",
+            "AlliedServices": "100% Deduction",
+            "MessDeposit": "100% Deduction",
+            "MessCharges": "Actual bill for occupied period, balance refunded."
+          }
+        },
+        "3": {
+          "Condition": "Request after 30 days from centralized admission process",
+          "Result": "All hostel fees forfeited."
+        }
+      },
+      "OtherTerms": {
+        "1": "Refunds are subject to deductions for damages to Institute property.",
+        "2": "If admission is cancelled by the Institute due to disciplinary action, all fees are forfeited.",
+        "3": "The Director's decision is final on all cases.",
+        "4": "The Institute may modify this policy without notice.",
+        "5": "Legal disputes will be settled in Nagpur, Maharashtra."
+      }
+    }
+  }
+  

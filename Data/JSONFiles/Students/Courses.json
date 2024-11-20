@@ -1,0 +1,152 @@
+{
+    "IIIT_Nagpur": {
+      "Undergraduate_Programs": {
+        "Programs": [
+          {
+            "Program_Name": "B. Tech. Computer Science & Engineering",
+            "Total_Seat_Intake": 223
+          },
+          {
+            "Program_Name": "B. Tech. CSE (Artificial Intelligence & Machine Learning)",
+            "Total_Seat_Intake": 66
+          },
+          {
+            "Program_Name": "B. Tech. CSE (Data Science & Analytics)",
+            "Total_Seat_Intake": 66
+          },
+          {
+            "Program_Name": "B. Tech. CSE (Human Computer Interaction & Gaming Technology)",
+            "Total_Seat_Intake": 66
+          },
+          {
+            "Program_Name": "B. Tech. Electronics & Communication Engineering",
+            "Total_Seat_Intake": 150
+          },
+          {
+            "Program_Name": "B. Tech. ECE (Internet of Things)",
+            "Total_Seat_Intake": 66
+          }
+        ],
+        "Total_Seats": 637
+      },
+      "Postgraduate_Programs": {
+        "PhD_Admission_Notification_2024_25": {
+          "Institute_Info": {
+            "Name": "Indian Institute of Information Technology, Nagpur",
+            "Status": "Institution of National Importance",
+            "Affiliation": [
+              "Supported by Department of Higher Education, Government of Maharashtra",
+              "Industry Partner: Tata Consultancy Services, Mumbai"
+            ],
+            "Location": "Survey No. 140,141/1 Behind Br. Sheshrao Wankhade Shetkari Soot Girni, Village: Waranga, Po: Dongargaon (Butibori), District: Nagpur (Maharashtra) - 441108"
+          },
+          "PhD_Programs": [
+            {
+              "Programme_Type": "Part time PhD Programme",
+              "Scheme": "Visvesvaraya PhD Scheme for Electronics and IT"
+            },
+            {
+              "Programme_Type": "Regular Institute Driven PhD Program",
+              "Departments": [
+                "Computer Science & Engineering",
+                "Electronics & Communication Engineering"
+              ]
+            }
+          ],
+          "Start_Date": "1st July 2024"
+        },
+        "PG_Certificate_Programme": {
+          "Programme": "Artificial Intelligence and Machine Learning",
+          "Sponsor": "AICTE-Quality Improvement Program (QIP)",
+          "Faculty_Incharge": {
+            "Name": "Dr. Amol Bhopale",
+            "Position": "Assistant Professor",
+            "Department": "Department of Computer Science & Engineering",
+            "Contact": "qip@iiitn.ac.in"
+          }
+        }
+      },
+      "Doctoral_Program": {
+        "PhD_Categories": {
+          "Industry_Candidates": [
+            "Extern Candidate from Industry (EX-I)",
+            "Intern Sponsored Candidate from Industry (IN-IS)"
+          ],
+          "Academic_Institution_Candidates": [
+            "Extern Self-financed candidates from Academic Institutions (Ex-A)",
+            "Intern Sponsored Candidate from Academic Institutions (IN-AS)"
+          ],
+          "Other_Candidates": [
+            "Intern Self Sponsored Candidates (IN-U)",
+            "Intern externally funded or sponsored or Project Staff Candidates (IN-ES)"
+          ]
+        },
+        "Admission_Modality": {
+          "Process": "Admission to the PhD programme is made once a year via advertisement.",
+          "Procedure": "Candidates must apply online and send a hard copy with relevant documents to the Institute."
+        },
+        "Entrance_Test": {
+          "Sections": [
+            {
+              "Section_Name": "Section-1",
+              "Description": "Common for all categories - General Ability and Communication Skills"
+            },
+            {
+              "Section_Name": "Section-2",
+              "Industry_Candidates_Syllabus": "Basic Engineering Maths, Basic Programming, Engineering Knowledge and Skills, Engineering Logical Analysis, Arithmetic, Industry Standards.",
+              "Other_Categories_Syllabus": {
+                "Electronics_and_Communication_Engineering": [
+                  "Engineering Mathematics",
+                  "Networks",
+                  "Signals and Systems",
+                  "Electronic Devices",
+                  "Analog Circuits",
+                  "Digital Circuits",
+                  "Control Systems",
+                  "Communications",
+                  "Electromagnetic"
+                ],
+                "Computer_Science_and_Engineering_and_IT": [
+                  "Engineering Mathematics",
+                  "Digital Logic",
+                  "Computer Organization and Architecture",
+                  "Programming and Data Structures",
+                  "Algorithms",
+                  "Theory of Computation",
+                  "Compiler Design",
+                  "Operating System",
+                  "Databases",
+                  "Computer Networks"
+                ]
+              }
+            }
+          ]
+        },
+        "Selection_Process": {
+          "Stage_1": "Entrance Test (Minimum qualifying score: 40%)",
+          "Stage_2": "Interview for candidates passing the Entrance Test",
+          "Stage_3": {
+            "Combined_Score": {
+              "Components": [
+                "Entrance Test: 40",
+                "Interview: 50",
+                "GATE Qualification: 10"
+              ]
+            },
+            "Candidate_Categories": {
+              "Industry_Candidates": ["EX-I", "IN-IS"],
+              "Academic_and_Other_Candidates": ["EX-A", "IN-AS", "IN-U", "IN-ES"]
+            }
+          }
+        },
+        "Duration_of_PhD": {
+          "Regular_Candidates": "3 years from the date of joining till the submission of thesis",
+          "Industry_Candidates": {
+            "With_Masters": "3 years",
+            "With_Bachelors": "4 years"
+          }
+        }
+      }
+    }
+  }
+  

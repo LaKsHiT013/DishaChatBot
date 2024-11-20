@@ -1,0 +1,91 @@
+{
+    "IIIT_Nagpur": {
+      "Admission": {
+        "Description": "Established by MHRD, Govt of Maharashtra, and Industry partners.",
+        "Status": "Declared as Institution of National Importance by Act of Parliament.",
+        "Admission_Procedure": "Admissions happen through JoSAA. Only top 2% candidates taking JEE Mains Exam make it to IIITN."
+      },
+      "Industry_and_Academia_Collaboration": {
+        "Industry_Partner": "Tata Consultancy Services Ltd",
+        "MoU": "ESIEE (Ecole Superieure dIngenieurs en Electrotechnique et Electronique) Paris - Graduate School of Engineering, based in France for exchange programmes."
+      },
+      "Curriculum": {
+        "Description": "Industry relevant dynamic curriculum designed by Board of Studies which comprises of Tech experts from IT industry.",
+        "Features": [
+          "Core subjects are incorporated from the 1st semester.",
+          "Choice Based Credit System gives an option to students to choose subjects of their choice.",
+          "Option to pursue credit based Online Certification Courses from Coursera, Udacity, Google Certifications.",
+          "Credit-based mandatory industry internship for full semester in final year B.Tech",
+          "Lecture series delivered by Tech experts from IT & Electronics industry.",
+          "IT Workshops on Data Structures, Python, HTML, Matlab, Robotics, Machine Learning, etc., conducted regularly by subject experts from IT industry."
+        ],
+        "Course_Curriculum": {
+          "CSE": "Course Curriculum of CSE",
+          "ECE": "Course Curriculum of ECE"
+        }
+      },
+      "Research_Environment": {
+        "Description": "Research work is focused on problems faced by IT Industry. Opportunity for people from Industry to pursue research interests under Industry-Academia Collaboration.",
+        "Research_Areas": {
+          "COMPUTER_SCIENCE_ENGINEERING": [
+            "Deep Learning",
+            "Machine Learning",
+            "Parallel Computing",
+            "High Performance Computing",
+            "Data Mining",
+            "IoT",
+            "Pattern recognition",
+            "Bio Informatics"
+          ],
+          "ELECTRONICS_AND_COMMUNICATION_ENGINEERING": [
+            "Signal, Image and Video Processing",
+            "Biomedical Signal Processing",
+            "Antennas Design",
+            "Wireless Communication",
+            "Wireless Sensor Network"
+          ],
+          "BASIC_SCIENCES_AND_ENGINEERING": [
+            "Applied/Engineering Physics",
+            "Materials Science",
+            "Nanoscience and Nanotechnology",
+            "Applied/Engineering Mathematics",
+            "Real Algebraic Geometry",
+            "Quadratic forms",
+            "Algebra",
+            "Linear/nonlinear and optimal control optimization",
+            "Biomedical systems",
+            "Analytical Modelling",
+            "English Literature"
+          ]
+        }
+      },
+      "Clubs_and_Communities": {
+        "Technical": {
+          "Ack-Z": "A white hat security club for ethical hackers",
+          "United_Gamers_Community": "Provides a common platform for competitive gaming.",
+          "Gaming_Community": "For multi-player gaming in a virtual environment over LAN.",
+          "DotSlash": {
+            "Description": "Programming Community aims to foster the coding culture that exists in IIITN.",
+            "Entities": [
+              "Open source Group",
+              "Competitive Programming Group",
+              "Machine Learning Group"
+            ]
+          }
+        },
+        "Cultural": {
+          "Crescendo": "Encourages the talented musicians and singers in the Institute.",
+          "Talartsdy": "The Art club aims at nurturing creativity in students in various art forms.",
+          "Beats_Spark": "Dance Club, aims at bringing together dancers from various dance forms absorbing all the known-unknown forms of dancing for the love of culture."
+        },
+        "Research": {
+          "REAP": "This Research Club helps students find their research interests and develop expertise.",
+          "7C_Club": "Communication and Public Speaking club, aims at developing the skills like self-confidence and leadership."
+        }
+      },
+      "Flagship_Annual_Event_at_IIITN": {
+        "ABHIVYAKTI": "The Annual Cultural Festival",
+        "TANTRAFIESTA": "National Level Technical Event by IIITN"
+      }
+    }
+  }  

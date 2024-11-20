@@ -1,0 +1,80 @@
+{
+    "rules_and_regulations": {
+      "anti_ragging_rules": {
+        "definition": "'Ragging' means the doing of any act which causes, or is likely to cause any physical, psychological or physiological harm of apprehension or shame or embarrassment to a student.",
+        "includes": [
+          "Teasing or abusing of playing practical joke on, or causing hurt to any student.",
+          "Asking any student to do any act, or perform anything, which he/she would not, in the ordinary course, be willing to do or perform."
+        ],
+        "types_of_abuses": [
+          "Physical abuse, for example, forcing to eat, drink or smoke, forcing to dress or undress.",
+          "Verbal abuse, for example swear words and phrases, direct or indirect derogatory references to the person's appearance, attire, religion, caste, family or chosen field of study.",
+          "Forced activity, for example chores for seniors, missing classes, waking late, performing in front of seniors, using foul language, misbehaving with strangers, browsing objectionable material.",
+          "Lifestyle restrictions, for example enforcing dress codes, restricting access to hostel areas, requiring specific modes of address, enforcing wake-up times.",
+          "Conversational mind-games, manipulating conversations to humiliate first-year students."
+        ],
+        "supreme_court_directives": "Any instance of ragging must be reported to the local police.",
+        "contact": "Any incident of ragging at IIIT Nagpur may be reported to the Anti-ragging Squad available at www.iiitn.ac.in"
+      },
+      "institute_rules": [
+        "Students must always carry their Identity Cards.",
+        "No student shall disobey any order issued by the Institute or its authorities.",
+        "Students must not engage in ragging or any acts causing mental or physical agony.",
+        "No student shall deny mess, club, or other facilities to other students.",
+        "Students should not indulge in unkind or indecent behavior towards new entrants.",
+        "Violence of any kind is prohibited.",
+        "Students must report grievances to appropriate authorities.",
+        "Membership in outside societies or political activities requires prior permission.",
+        "Consumption of alcohol and harmful drugs is prohibited on campus.",
+        "Students should avoid incurring debts or financial irregularities.",
+        "Meetings outside recognized student activities require prior permission.",
+        "No unauthorized meetings with outsiders allowed.",
+        "No theatrical performances without prior permission.",
+        "Insults or offensive behavior towards others is prohibited.",
+        "Misappropriation or damage to Institute property will result in disciplinary action.",
+        "Motor vehicles are not allowed on campus.",
+        "All dues must be paid on or before stipulated dates.",
+        "Students must protect Institute/hostel property and report any damages.",
+        "Campus timing for hostel students is 08.30 pm."
+      ],
+      "hostel_rules": [
+        "The authority reserves the right to permit or deny hostel admission.",
+        "New students must report to the Hostel Warden upon arrival.",
+        "Students are responsible for the upkeep of their assigned rooms.",
+        "Wardens will manage day-to-day hostel operations.",
+        "Rooms may be inspected by the Warden or authorized staff.",
+        "Rooms may be opened in case of rule violations or security risks.",
+        "Noise that distracts others is prohibited.",
+        "Furniture must not be removed from rooms without permission.",
+        "Certain electrical appliances are not allowed in hostel rooms.",
+        "Coolers are allowed only in summer with prior permission.",
+        "Electricity charges are shared among occupants.",
+        "Students should conserve electricity and water.",
+        "Private servants and pets are not allowed.",
+        "Students should secure their belongings and report thefts.",
+        "Large sums of money or valuables should not be kept in rooms.",
+        "Alcohol and harmful drugs are prohibited in hostels.",
+        "Cycles must be properly locked and stored.",
+        "No acts that disturb others are permitted.",
+        "Parents/guests may not enter student rooms without permission.",
+        "Students may not shelter outsiders in their rooms.",
+        "A hostel committee will manage hostel activities.",
+        "Rooms must be occupied only during specified periods.",
+        "Students must hand over room charges before vacations.",
+        "Obscene literature or acts are prohibited.",
+        "Posters or notices damaging walls are not allowed.",
+        "Security staff can intervene in student conduct.",
+        "All hostel inmates must adhere to campus timing."
+      ],
+      "senior_student_directives": {
+        "dos_and_donts": [
+          "Encourage friendly interactions between juniors and seniors.",
+          "Solicit participation in activities without forcing juniors.",
+          "Maintain self-discipline and restraint in interactions.",
+          "Avoid visiting junior's rooms or inviting juniors to senior rooms.",
+          "Do not force juniors to perform under the guise of talent search."
+        ]
+      }
+    }
+  }
+  

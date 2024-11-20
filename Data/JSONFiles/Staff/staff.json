@@ -1,0 +1,299 @@
+{
+    "officers": [
+      {
+        "title": "Director",
+        "name": "Professor (Dr) Prem Lal Patel",
+        "position": "Director, IIIT Nagpur",
+        "contact": {
+          "email": "director@iiitn.ac.in",
+          "office": "Director Office, Main Building, IIIT Nagpur"
+        },
+        "bio": "Professor Prem Lal Patel took over as Director of IIIT, Nagpur on 1st October, 2024. He is a Professor (HAG) of Hydraulics and Water Resources at SVNIT, Surat, and has held roles such as Deputy Director, Dean, and Head of Civil Engineering. His research focuses on River Mechanics, Flood Control, and Climate Change Impact on Water Systems, with over 260 publications. He is a Fellow of various technical societies and has overseen numerous research and consultancy projects.",
+        "phone": null
+      },
+      {
+        "title": "Registrar",
+        "name": "Shri Kailas N. Dakhale",
+        "position": "Registrar, IIIT Nagpur",
+        "contact": {
+          "phone": "9421995010",
+          "email": "registrar@iiitn.ac.in",
+          "office": "Indian Institute of Information Technology, Nagpur"
+        },
+        "bio": "With 30 years of experience, Shri Kailas N. Dakhale has served in various roles at institutions like IIT Kanpur and VNIT Nagpur. His expertise spans administration, academic matters, hostel management, and industry liaison. He has served on various committees across institutes, contributing to the development and policy planning of higher educational institutions in India.",
+        "phone": "9421995010"
+      },
+      {
+        "title": "Associate Dean",
+        "name": "Dr. Tausif Diwan",
+        "position": "Associate Dean, IIIT Nagpur",
+        "contact": {
+          "phone": "9890280388",
+          "email": "tdiwan@iiitn.ac.in"
+        },
+        "bio": "",
+        "phone": "9890280388"
+      }
+    ],
+    "departments": [
+      {
+        "department": "Department of Basic Science and Engineering",
+        "head": {
+          "name": "Dr. Prasad V. Joshi",
+          "position": "Assistant Professor & HOD",
+          "phone": "9893195909",
+          "email": "pjoshi@iiitn.ac.in"
+        }
+      },
+      {
+        "department": "Department of Computer Science and Engineering",
+        "head": {
+          "name": "Dr. Nishat A. Ansari",
+          "position": "Assistant Professor & HOD",
+          "phone": null,
+          "email": "nishat.ansari@iiitn.ac.in"
+        }
+      },
+      {
+        "department": "Department of Electronics and Communication Engineering",
+        "head": {
+          "name": "Dr. Harsh Goud",
+          "position": "Assistant Professor & HOD",
+          "phone": "9827554326",
+          "email": "hgoud@iiitn.ac.in"
+        }
+      }
+    ],
+    "hostel_wardens": [
+      {
+        "position": "Hostel Warden (Boys)",
+        "name": "Dr. Harsh Goud",
+        "role": "Assistant Professor",
+        "phone": "9827554326",
+        "email": "hgoud@iiitn.ac.in",
+        "location": "Indian Institute of Information Technology, Nagpur"
+      },
+      {
+        "position": "Hostel Warden (Girls)",
+        "name": "Dr. Shushmita Dadhaliya",
+        "role": "Assistant Professor",
+        "phone": "9082333050",
+        "email": "sdandeliya@iiitn.ac.in",
+        "location": "Indian Institute of Information Technology, Nagpur"
+      }
+    ],
+    "rules_and_regulations": {
+      "anti_ragging": {
+        "overview": "Ragging is strictly prohibited at the institute, and disciplinary action will be taken against violators.",
+        "penalties": [
+          "Suspension from attending classes and academic privileges",
+          "Withholding/withdrawing scholarships and other benefits",
+          "Debarring from representation in events and appearing for examinations",
+          "Filing of an FIR and legal consequences"
+        ]
+      },
+      "institute_rules": {
+        "overview": "The institute rules are established to maintain discipline and order among students, faculty, and staff.",
+        "key_rules": [
+          "Punctuality and regular attendance are mandatory",
+          "Respect towards peers, faculty, and staff is expected at all times",
+          "Strict adherence to academic honesty and integrity",
+          "Use of institute resources responsibly and ethically"
+        ]
+      },
+      "hostel_rules": {
+        "overview": "Hostel rules ensure a peaceful and secure environment for all residents.",
+        "key_rules": [
+          "All hostel residents must adhere to curfew timings",
+          "Maintaining cleanliness and hygiene in shared spaces",
+          "No unauthorized guests allowed in hostel rooms",
+          "Consumption of alcohol and drugs is strictly prohibited"
+        ]
+      },
+      "directives_for_seniors": {
+        "overview": "Senior students are expected to guide and assist junior students while respecting their individuality.",
+        "key_points": [
+          "No involvement in ragging or similar activities",
+          "Encourage a friendly and supportive environment",
+          "Respect boundaries and promote inclusivity",
+          "Assist juniors with academic and personal guidance"
+        ]
+      }
+    },
+    "committees": [
+      {
+        "name": "Grievance Committee SC/ST Cell",
+        "description": "The Grievance Committee SC/ST Cell (GCC) handles caste-based grievances by students, faculty, and staff. The GCC listens to grievances, investigates, verifies facts, and prepares reports for further action.",
+        "members": [
+          {
+            "name": "Dr. Aishwarya Sagar Anand Ukey",
+            "department": "CSE",
+            "designation": "Chairman",
+            "email": "aukey@iiitn.ac.in",
+            "phone": "9993943344"
+          },
+          {
+            "name": "Dr. Vrinda Yadav",
+            "department": "CSE",
+            "designation": "Member",
+            "email": "vyadav@iiitn.ac.in",
+            "phone": "9987036624"
+          },
+          {
+            "name": "Mr. Nikhil Madavi",
+            "department": "CSE",
+            "designation": "Member",
+            "email": "lacsenikhil@iiitn.ac.in",
+            "phone": "9766344695"
+          },
+          {
+            "name": "Ms. Reema Nana Dongardive",
+            "department": "CSE",
+            "designation": "Member",
+            "email": "lacsernd@iiitn.ac.in",
+            "phone": "8805813037"
+          },
+          {
+            "name": "Shri. Ashok Dongare",
+            "department": "Admin",
+            "designation": "Member",
+            "email": "jecivil@iiitn.ac.in",
+            "phone": "9689009639"
+          }
+        ]
+      },
+      {
+        "name": "Anti-Ragging Committee",
+        "description": "The Anti-Ragging Committee at IIIT Nagpur is responsible for implementing preventive and remedial measures against ragging.",
+        "members": [
+          {
+            "name": "Shri. Kailas N. Dakhale",
+            "designation": "Chairman",
+            "role": "Registrar"
+          },
+          {
+            "name": "Dr. Prasad Joshi",
+            "designation": "Member",
+            "role": "Assistant Professor & HoD, BS"
+          },
+          {
+            "name": "Dr. Tausif Diwan",
+            "designation": "Member",
+            "role": "Associate Dean"
+          },
+          {
+            "name": "Dr. Nishat Afshan Ansari",
+            "designation": "Member",
+            "role": "Assistant Professor & HoD, CSE"
+          },
+          {
+            "name": "Dr. Harsh Goud",
+            "designation": "Member",
+            "role": "Assistant Professor & HoD, ECE"
+          },
+          {
+            "name": "Mr. Udbhav Mittal",
+            "designation": "Member",
+            "role": "Student Representative, CSE"
+          },
+          {
+            "name": "Mr. Swastik Katiyar",
+            "designation": "Member",
+            "role": "Student Representative, ECE"
+          }
+        ]
+      },
+      {
+        "name": "Institute Level Anti-Ragging Squad",
+        "description": "The squad meets to review and take action on anti-ragging measures at the institute level.",
+        "members": [
+          {
+            "name": "Dr. Prasad Joshi",
+            "designation": "Chairman",
+            "department": "BS"
+          },
+          {
+            "name": "Dr. Girish Ghivela",
+            "designation": "Member",
+            "department": "ECE"
+          },
+          {
+            "name": "Dr. Shankar Bhattacharjee",
+            "designation": "Member",
+            "department": "ECE"
+          },
+          {
+            "name": "Dr. Shishupal Kumar",
+            "designation": "Member",
+            "department": "CSE"
+          },
+          {
+            "name": "Dr. Snehal Shinde",
+            "designation": "Member",
+            "department": "CSE"
+          },
+          {
+            "name": "Shri Shashikant Bhongale",
+            "designation": "Member",
+            "department": "Admin"
+          },
+          {
+            "name": "Mr. Sujay Kamble",
+            "designation": "Member",
+            "role": "Student Representative"
+          },
+          {
+            "name": "Ms. Naina Rai",
+            "designation": "Member",
+            "role": "Student Representative"
+          }
+        ]
+      },
+      {
+        "name": "Equal Opportunity Cell",
+        "description": "The Equal Opportunity Cell is responsible for addressing the needs of differently-abled persons.",
+        "members": [
+          {
+            "name": "Dr. Anil Kumar Kushwah",
+            "designation": "Chairman",
+            "email": "akushwah@iiitn.ac.in",
+            "phone": "9893739034"
+          },
+          {
+            "name": "Dr. Kamaljeet",
+            "designation": "Member",
+            "email": "kamaljeet@iiitn.ac.in",
+            "phone": "8127583552"
+          },
+          {
+            "name": "Mr. Ashok Dongare",
+            "designation": "Member",
+            "email": "jecivil@iiitn.ac.in",
+            "phone": "9689009639"
+          },
+          {
+            "name": "Mr. Niloba Mahajan",
+            "designation": "Member",
+            "email": "janamahajan@iiitn.ac.in",
+            "phone": "8999296062"
+          },
+          {
+            "name": "Mr. Nenavath Chandra Shekhar",
+            "designation": "Member",
+            "role": "Student",
+            "email": "bt22csh040@iiitn.ac.in"
+          },
+          {
+            "name": "Dr. Jigar Shah",
+            "designation": "Member",
+            "role": "Parent"
+          }
+        ]
+      },
+      {
+        "name": "Internal Complaint Committee",
+        "description": "The Internal Complaint Committee is set up under the Sexual Harassment of Women at Workplace (Prevention, Prohibition & Redressal) Act, 2013.",
+        "link": "https://iiitn.ac.in/18092024/Policy%20of%20Prevention%20of%20Sexual%20Harassment%20of%20Women%20at%20Workplace.pdf"
+      }
+    ]
+  }  

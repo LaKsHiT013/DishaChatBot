@@ -1,0 +1,110 @@
+{
+    "fees_payment": {
+      "instruction": "The students are advised to pay the Academic Fees/Hostel Fees before filling the Registration Form or reporting to the Institute."
+    },
+    "institute_registration": {
+      "instruction": "Students must fill the Registration Form through the link activated on the Institute's website (www.iiitn.ac.in) from 1st August 2023 until CSAB admissions are over."
+    },
+    "documents_to_be_uploaded": [
+      "Institute Online Application Form",
+      "Academic Bank of Credit (ABC) Id",
+      "Seat Allotment Letter issued by JoSAA 2023/CSAB 2023",
+      "JEE Main Score Card & Admit Card",
+      "Photo ID Proof as per Govt. of India norms (Pan Card, Driving License, Aadhar, Passport)",
+      "Birth Certificate issued by Competent Authority / Class X (SSC) Board Certificate",
+      "Mark Sheets of Class X and XII",
+      "Certificate of Social Category (OBC/SC/ST/EWS), if applicable, issued by the Competent Authority",
+      "Non-Creamy Layer Certificate for OBC Category (issued on or after 1st April 2023)",
+      "Caste Validity Certificate for students with a Caste Certificate issued by Maharashtra State",
+      "Certificate for Persons with Disabilities (PwD), if applicable, as per JoSAA Format",
+      "Gap Affidavit, if applicable",
+      "EWS Certificate, if applicable, issued on or after 1st April 2023",
+      "Transfer Certificate",
+      "Migration Certificate, if applicable",
+      "Passport Size Photograph - 2 Copies",
+      "Undertaking for Non-availability of prescribed documents, if applicable (format available on website)",
+      "Medical Certificate (Original) as per JoSAA Format",
+      "Receipt of Fee paid at JoSAA / CSAB",
+      "Institute Fees Paid Receipt",
+      "Copy of First Page of Bank Passbook / Cancelled Cheque of Student Bank Account"
+    ],
+    "reporting": {
+      "mode": "Physical",
+      "instruction": "Students/parents are required to physically visit the Institute for reporting.",
+      "schedule": {
+        "start_date": "14th August 2023",
+        "end_date": "21st August 2023 (Tentative)"
+      }
+    },
+    "classes": {
+      "commencement": "22nd August 2023",
+      "note": "Time Table will be available on the Institute website."
+    },
+    "fees_details": {
+      "note": "The Institute Fees must be paid through the Online Link provided on the website www.iiitn.ac.in or via DD in the name of Director IIIT, Nagpur payable at Nagpur.",
+      "fees_for_1st_semester": {
+        "josaa_allotment": {
+          "general_obc_ews": {
+            "total": 123850,
+            "seat_acceptance": 36000,
+            "partial_admission": 36000,
+            "amount_to_be_paid": 51850
+          },
+          "sc_st_pwd": {
+            "total": 123850,
+            "seat_acceptance": 16000,
+            "partial_admission": 16000,
+            "amount_to_be_paid": 91850
+          }
+        },
+        "csab_allotment": {
+          "general_obc_ews": {
+            "total": 123850,
+            "special_round_enrollment_IAF_I": 40000,
+            "special_round_enrollment_IAF_II": 32000,
+            "amount_to_be_paid": 51850
+          },
+          "sc_st_pwd": {
+            "total": 123850,
+            "special_round_enrollment_IAF_I": 20000,
+            "special_round_enrollment_IAF_II": 12000,
+            "amount_to_be_paid": 91850
+          }
+        }
+      }
+    },
+    "bank_details": {
+      "academic_fees_payment": {
+        "account_name": "IIITN GENERAL",
+        "account_number": "41759739179",
+        "bank_name": "State Bank of India",
+        "bank_address": "VRCE Branch, South Ambazari Road, VNIT District Nagpur, Maharashtra – 440011",
+        "branch_code": "06702",
+        "ifsc_code": "SBIN0006702",
+        "micr_code": "440002005",
+        "contact": {
+          "phone": "0712-2226046",
+          "email": "sbi.06702@sbi.co.in"
+        }
+      },
+      "hostel_fees_payment": {
+        "account_name": "IIITN HOSTEL",
+        "account_number": "41759639981",
+        "bank_name": "State Bank of India",
+        "bank_address": "VRCE Branch, South Ambazari Road, VNIT District Nagpur, Maharashtra – 440011",
+        "branch_code": "06702",
+        "ifsc_code": "SBIN0006702",
+        "micr_code": "440002005",
+        "contact": {
+          "phone": "0712-2226046",
+          "email": "sbi.06702@sbi.co.in"
+        }
+      }
+    },
+    "important_notes": [
+      "Students must bring all the original documents during physical reporting to the Institute.",
+      "The Institute will keep the original Transfer Certificate (TC) and Migration Certificate.",
+      "Caste Validity is required for Maharashtra candidates.",
+      "Fees Structures might not be updated please check the college website for exact fees structure."
+    ]
+  }  
