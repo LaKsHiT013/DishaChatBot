@@ -27,7 +27,7 @@ Welcome to the **Disha Chatbot** GitHub repository. This project is an innovativ
 ## Key Technologies
 
 1. **Machine Learning Models**
-- Fine-tuned **BERT**, **GPT-2**, **LLaMA-2**, and **Gamma-2** models tailored to IIIT Nagpur-specific data.
+- Fine-tuned **LLaMA-2**, **LLaMA-3.2 (r=8, r=16, r=32)** and **Phi-5** models tailored to IIIT Nagpur-specific data.
 - **PEFT Techniques**: Includes **LoRA**, **QLoRA**, and **Unsloth** for efficient fine-tuning.
 
 2. **Retrieval-Augmented Generation (RAG)**
